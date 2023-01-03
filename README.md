@@ -27,7 +27,7 @@ One can add [TartarusGate](https://github.com/trickster0/TartarusGate) logic, to
 <br>
 
 ## Profit
-Bypassing The Below EDR using [This Hell'sHall Implementation](https://github.com/ORCx41/HellHall/blob/main/Hell'sHall-Clang%26NoCrt.zip) That is Using `NtAllocateVirtualMemory`, `NtProtectVirtualMemory`, and `NtCreateThreadEx` syscalls with a `RWX section` 
+Bypassing The Below EDR using [This Hell'sHall Implementation](https://github.com/Maldev-Academy/HellHall/blob/main/Hell'sHall-Clang%26NoCrt.zip) That is Using `NtAllocateVirtualMemory`, `NtProtectVirtualMemory`, and `NtCreateThreadEx` syscalls with a `RWX section` 
 
 ![image](https://user-images.githubusercontent.com/111295429/210299245-d366566a-0e14-4622-8bb0-91fd645a9d2e.png)
 
