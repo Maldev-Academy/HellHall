@@ -54,6 +54,6 @@ The Github repo can be found [here](https://github.com/Maldev-Academy/HellHall)
 
 ## Authors
 
-* ORCA (@ORCx41)
+* NULL (@NUL0x4C)
 * mr.d0x (@mrd0x)
 
