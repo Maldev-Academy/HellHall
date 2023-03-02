@@ -24,7 +24,7 @@ def main():
     try:
         ntdll_funcs = sys.argv[1].split(',')
         ntdll_func_dict = {
-            ntdll_func: crc32_chksum(ntdll_func)
+            ntdll_func: crc32_chksum(ntdll_func.strip())
             for ntdll_func in ntdll_funcs
         }
 
